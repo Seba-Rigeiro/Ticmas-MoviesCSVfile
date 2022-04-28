@@ -12,8 +12,8 @@ Run: npx sequelize-cli db:migrate
 2. Start project
 node app.js
 
-3. Tests the app
-Use the Postman collection "Movies.app.postman_collection.json"
+3. Postman documentation
+https://documenter.getpostman.com/view/15547223/UyrEiFDp
 
 Notes:
 The backend service will run at localhost:3000
